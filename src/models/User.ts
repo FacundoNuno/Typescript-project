@@ -22,4 +22,5 @@ export class User extends Model {
   updatedAt!: Date;
 }
 
+
 export default User;
